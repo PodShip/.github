@@ -24,7 +24,6 @@ then comes the second layer, In which we will say to the user, that if they want
 And lastly, PodShip will also generate income from Podcast NFT sales. When any Podcast NFT is going to be sold, PodShip will take a small percentage.
 PodShip will allow podcasters to upload content in both formats, audio & video.
 
-For this Hackathon our main focus will be only Audio.
 
 We will continue building PodShip after the hackathon as well and try to mainstream it. Because the Podcast market is already Billion Dollar market and growing 🚀💰
 
