@@ -29,7 +29,9 @@ How PodShip is going to generate Revenue & How Creators & Users Rewards are gonn
 To understand this, how Web3 Platform’s Economy gonna work. For that, pls watch this video: https://youtu.be/cPKBpmtohlI
 
 When a User will come and create an account on PodShip, We will ask them, What their Intrest Areas are. That’s how we gonna dispaly/Recommend Podcasts to them and that’s how we are gonna Show them Ads (Display Ads, No annoying pop-ups, unskibble or Ads during streaming. Just like how brave browser does and how Odysee does. The revenue we will generate from Ads, we are gonna distribute it with the Content Creators.
+
 then comes the second layer, In which we will say to the user, that if they want Incentives as well then have to provide more information about their selves like Location and other interests. Incentives are gonna be only for those users who will provide more info, and the info they wanna give us, We are not gonna track them. The user can delete his info whenever he wants, and his incentives will turn off as well.
+
 And lastly, PodShip will also generate income from Podcast NFT sales. When any Podcast NFT is going to be sold, PodShip will take a small percentage.
 PodShip will allow podcasters to upload content in both formats, audio & video.
 
