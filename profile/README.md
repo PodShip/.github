@@ -1,5 +1,7 @@
 # PodShip
 
+🎖️ [Chainlink](https://devpost.com/software/podship) and [ETH Global](https://ethglobal.com/showcase/podship-w87wm) Winner Product 
+
 A Decentralized Podcast Sharing & Streaming Platform.
 
 PodShip's main goal is to support Podcasters & Give the Users what they deserve.
